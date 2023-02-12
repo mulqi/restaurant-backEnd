@@ -3,7 +3,7 @@
 ## Setup Environment
 
 1. Clone Git Repo ini
-   `git clone https://github.com/mulqi/restaurant-frontEnd`
+   `git clone https://github.com/mulqi/restaurant-backEnd`
 
 2. inisialisasi NPM
    `npm install`
