@@ -18,11 +18,11 @@
    
 ### penjelasan dikit
 
-git add . = git tolong cek semua file yang sudah di edit dan masukan ini ke daftar file yang akan diupload
-git status = git tolong cek apa aja yang sudah terjadi
-git commit = git tolong file yang ada di daftar, tolong di beri pesan "pesan mu" dan persiapkan untuk diupload
-git pull = git tolong update file di komputerku dari folder repository biar nanti tidak ada konflik
-git push = git tolong upload file tersebut ke *branch mu*
+1. git add . = git tolong cek semua file yang sudah di edit dan masukan ini ke daftar file yang akan diupload
+2. git status = git tolong cek apa aja yang sudah terjadi
+3. git commit = git tolong file yang ada di daftar, tolong di beri pesan "pesan mu" dan persiapkan untuk diupload
+4. git pull = git tolong update file di komputerku dari folder repository biar nanti tidak ada konflik
+5. git push = git tolong upload file tersebut ke *branch mu*
 
 ## TIP
 1. akan lebih baik untuk membuat branch tersendiri untuk eksperimen.
