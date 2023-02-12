@@ -8,7 +8,7 @@
 2. inisialisasi NPM
    `npm install`
 
-## Workflow Git
+## Workflow Git (Tata cara)
 
 1. `git add . ` 
 2. `git status` 
@@ -28,8 +28,7 @@ git push = git tolong upload file tersebut ke *branch mu*
 1. akan lebih baik untuk membuat branch tersendiri untuk eksperimen.
 2. pastikan tidak bekerja di branch `master`
 3. gabung branch lain dengan branch `master` jika sudah benar benar yakin fix
-4. jika member lain yang sudah buat branch terlebih dahulu, jangan langsung upload langsung ke branch itu langsung, dikarenakan branch yang dibuat oleh member lain belum ada di komputer lain
-   1. solusinya adalah dengan membuat branch baru di komputer kalian dengan nama branch yang sama
+4. jika member lain yang sudah buat branch terlebih dahulu, jangan langsung upload langsung ke branch itu langsung, dikarenakan branch yang dibuat oleh member lain belum ada di komputer lain solusinya adalah dengan membuat branch baru di komputer kalian dengan nama branch yang sama
 
 ### Branch Commands
    1. buat branch baru : `git branch nama-branch`
