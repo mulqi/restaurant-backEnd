@@ -1,7 +1,6 @@
 const express = require('express')
 const app = express()
 const port = 3000
-'git clone https://github.com/mulqi/restaurant-backEnd'
 const mysql = require ('mysql')
 const connection = mysql.createConnection ({
   host: '109.106.253.140',
@@ -19,13 +18,6 @@ connection.query('SELECT * from menu', (err, rows, fields) => {
 
 connection.end()
 app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
-// -> tampil data makanan 
-// -> database 
-// -> inquiry 
-// -> filter makanan yang masih tersedia => query (SELECT * lalala)
-app.get('/get-menu', (req, res) => {
   res.send('Hello World!')
 })
 
